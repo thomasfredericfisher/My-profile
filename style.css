@@ -127,6 +127,7 @@ ul{
 .navigation-bar a {
   padding: 10px 30 px;
   color: white;
+  margin: 0px 15px;
 }
 
 .navigation-bar a:hover {
